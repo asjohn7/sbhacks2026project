@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Local secrets and generated/large data
+.env
+.env.local
+config/.env
+data/raw/
+data/images/*.jpg
+data/images/metadata.csv
+data/images/labels.csv
+data/processed/graph.json
+data/processed/detections.json
+data/reports/

@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "name": "lumen_routes_demo_area",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Stony Brook University campus demo area"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.1340, 40.9065],
+          [-73.1118, 40.9065],
+          [-73.1118, 40.9227],
+          [-73.1340, 40.9227],
+          [-73.1340, 40.9065]
+        ]]
+      }
+    }
+  ]
+}
